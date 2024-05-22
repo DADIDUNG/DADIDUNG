@@ -25,5 +25,7 @@ By combining my experience, technical skills, and robust infrastructure, I aim t
 **My contact**
 
 Email	: dangdinhdung@gmail.com
+
 X	: https://x.com/danggia
+
 Discord	: .dudad
