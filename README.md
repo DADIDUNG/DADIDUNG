@@ -4,7 +4,7 @@ I am **DANGGIA**, a dedicated blockchain validator based in Southeast Asia. With
 
 **Professional Experience**
 
-Throughout my career, I have been actively involved in numerous testnet projects, including Avail, Tangle, Dymension, Autonity, Nwaku, Warden, Side, Alignedlayer, Tanssi, Initia, and currently, 0g Labs. My participation in these projects has equipped me with a comprehensive understanding of the various challenges and requirements at each stage of blockchain development.
+Throughout my career, I have been actively involved in numerous testnet projects, including Avail, Tangle, Dymension, Autonity, Nwaku, Warden, Side, Alignedlayer, Tanssi, Initia, 0g Labs .... My participation in these projects has equipped me with a comprehensive understanding of the various challenges and requirements at each stage of blockchain development.
 
 **Technical Infrastructure**
 
