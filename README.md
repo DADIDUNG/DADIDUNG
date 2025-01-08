@@ -24,7 +24,7 @@ By combining my experience, technical skills, and robust infrastructure, I aim t
 
 **My contact**
 
-Email	: danggiaanna@gmail.com
+Email	: dungdang.c3.rno@gmail.com
 
 X	: https://x.com/danggia
 
