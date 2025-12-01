@@ -6,6 +6,8 @@ I am **DANGGIA**, a dedicated blockchain validator based in Southeast Asia. With
 
 Throughout my career, I have been actively involved in numerous testnet projects, including Avail, Tangle, Dymension, Autonity, Nwaku, Warden, Side, Alignedlayer, Tanssi, Initia, 0g Labs .... My participation in these projects has equipped me with a comprehensive understanding of the various challenges and requirements at each stage of blockchain development.
 
+I have solid experience in software development, including backend engineering, system automation, blockchain integrations, and infrastructure management. I frequently work with Linux environments, optimize performance for high-load applications, and contribute to projects involving distributed systems, validator operations, and data processing.
+
 **Technical Infrastructure**
 
 To support my work, I maintain a robust and stable server system featuring:
