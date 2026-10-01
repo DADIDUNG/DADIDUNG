@@ -28,6 +28,6 @@ By combining my experience, technical skills, and robust infrastructure, I aim t
 
 Email	: dungdang.c3.rno@gmail.com
 
-X	: https://x.com/DANGDUNG
+X	: https://x.com/danggia
 
 Discord	: .dudad
