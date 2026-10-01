@@ -1,6 +1,6 @@
-**Congratulation to DANGGIA Github!**
+**Congratulation to DANGDUNG Github!**
 
-I am **DANGGIA**, a dedicated blockchain validator based in Southeast Asia. With over three years of experience, I specialize in supporting blockchain projects from their devnet and testnet stages through to mainnet deployment. My extensive experience ensures that I can effectively contribute to the success of these projects by deploying and maintaining blockchain networks to the highest standards.
+I am **DANGDUNG**, a dedicated blockchain validator based in Southeast Asia. With over three years of experience, I specialize in supporting blockchain projects from their devnet and testnet stages through to mainnet deployment. My extensive experience ensures that I can effectively contribute to the success of these projects by deploying and maintaining blockchain networks to the highest standards.
 
 **Professional Experience**
 
@@ -28,6 +28,6 @@ By combining my experience, technical skills, and robust infrastructure, I aim t
 
 Email	: dungdang.c3.rno@gmail.com
 
-X	: https://x.com/danggia
+X	: https://x.com/DANGDUNG
 
 Discord	: .dudad
