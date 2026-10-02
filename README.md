@@ -1,6 +1,6 @@
-**Congratulation to DUNGDANG Github!**
+**Congratulation to dungdang Github!**
 
-I am **DUNGDANG**, a dedicated blockchain validator based in Southeast Asia. With over three years of experience, I specialize in supporting blockchain projects from their devnet and testnet stages through to mainnet deployment. My extensive experience ensures that I can effectively contribute to the success of these projects by deploying and maintaining blockchain networks to the highest standards.
+I am **dungdang**, a dedicated blockchain validator based in Southeast Asia. With over three years of experience, I specialize in supporting blockchain projects from their devnet and testnet stages through to mainnet deployment. My extensive experience ensures that I can effectively contribute to the success of these projects by deploying and maintaining blockchain networks to the highest standards.
 
 **Professional Experience**
 
